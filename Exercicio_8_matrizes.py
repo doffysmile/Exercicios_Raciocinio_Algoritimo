@@ -50,12 +50,12 @@ while alunos < 3:
         matriz3[j][0] = float(input("Digite seu número de matricula"))
     for i in range(5):
         print(matriz3[i])
-    #media 1
+    #provas
     for j in range(5):
         matriz3[j][1] = float(input("Digite suas notas de provas"))
     for i in range(5):
         print(matriz3[i])
-    #media 2
+    #trabalhos
     for j in range(5):
         matriz3[j][2] = float(input("Digite suas notas de trabalhos"))
     #nota final
