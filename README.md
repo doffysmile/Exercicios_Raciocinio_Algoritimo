@@ -29,8 +29,7 @@ Desenvolver o raciocínio lógico e a capacidade de resolução de problemas atr
 * Desenvolver algoritmos eficientes
 * Aprender os fundamentos da programação
 * Aplicar conceitos estudados em aula
-* Evoluir na resolução de problemas computacionais
-* 
+* Evoluir na resolução de problemas computacionais 
 
 ## Julia Victoria
 
