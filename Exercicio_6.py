@@ -116,4 +116,3 @@ for i in range(1, 5):
         indice_menor = i
 print(vetor8)
 print(f"Seu maior número está na posição {indice_maior} e seu menor número está na posição {indice_menor} ")
-#######################
