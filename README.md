@@ -1,6 +1,6 @@
 # Exercícios de Raciocínio Algorítmico
 
-Repositório dedicado aos exercícios desenvolvidos durante a disciplina de **Raciocínio Algorítmico** do curso de **Ciência da Computação na PUCPR**.
+Repositório dedicado aos exercícios desenvolvidos durante a disciplina de **Raciocínio Algorítmico 1º Período** do curso de **Ciência da Computação na PUCPR**.
 
 ## Objetivo
 
